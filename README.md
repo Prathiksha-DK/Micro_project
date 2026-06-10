@@ -1,4 +1,4 @@
-**Shipment Management Form using JsonPowerDB**
+# Shipment Management Form using JsonPowerDB
 
 ---
 
@@ -10,7 +10,7 @@ It allows users to store, retrieve, and update shipment information using Shipme
 
 ---
 
-# Benefits of JsonPowerDB
+Benefits of JsonPowerDB
 
 * Simple and easy to use.
 * High-performance NoSQL database.
@@ -21,7 +21,7 @@ It allows users to store, retrieve, and update shipment information using Shipme
 
 ---
 
-# Scope of Functionalities
+Scope of Functionalities
 
 * Add new shipment records.
 * Search shipment records using Shipment Number.
@@ -31,7 +31,7 @@ It allows users to store, retrieve, and update shipment information using Shipme
 
 ---
 
-# Database Structure
+Database Structure
 
 **Database Name:** DELIVERY-DB
 
@@ -50,7 +50,7 @@ It allows users to store, retrieve, and update shipment information using Shipme
 
 ---
 
-# Illustrations
+Illustrations
 
 ### Initial State
 
@@ -68,7 +68,7 @@ It allows users to store, retrieve, and update shipment information using Shipme
 
 ---
 
-# Examples of Use
+Examples of Use
 
 ### Sample Record
 
@@ -85,7 +85,7 @@ It allows users to store, retrieve, and update shipment information using Shipme
 
 ---
 
-# Technologies Used
+Technologies Used
 
 * HTML5
 * Bootstrap 5
@@ -95,7 +95,7 @@ It allows users to store, retrieve, and update shipment information using Shipme
 
 
 
-# Project Status
+Project Status
 
 ✅ Completed
 
@@ -103,7 +103,7 @@ Version: 1.0
 
 ---
 
-# Release History
+Release History
 
 ### Version 1.0 (June 2026)
 
@@ -115,7 +115,7 @@ Version: 1.0
 
 ---
 
-# Sources
+Sources
 
 * JsonPowerDB Documentation: https://login2explore.com/jpdb/docs.html
 * Bootstrap Documentation: https://getbootstrap.com
@@ -123,7 +123,7 @@ Version: 1.0
 
 ---
 
-# Other Information
+Other Information
 
 The application follows the Login2Xplore micro-project workflow where Shipment Number acts as the primary key and controls Save/Update operations.
 
